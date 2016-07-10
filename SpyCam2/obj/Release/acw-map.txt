@@ -1,0 +1,20 @@
+ItemAdapter, SpyCam2;md5771c622640431fe8983ba98fdb7ec09b.ItemAdapter
+ItemAdapter, SpyCam2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5771c622640431fe8983ba98fdb7ec09b.ItemAdapter
+ItemAdapter;md5771c622640431fe8983ba98fdb7ec09b.ItemAdapter
+ItemAdapter;md5771c622640431fe8983ba98fdb7ec09b.ItemAdapter
+ViewHolder, SpyCam2;md5771c622640431fe8983ba98fdb7ec09b.ViewHolder
+ViewHolder, SpyCam2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5771c622640431fe8983ba98fdb7ec09b.ViewHolder
+ViewHolder;md5771c622640431fe8983ba98fdb7ec09b.ViewHolder
+ViewHolder;md5771c622640431fe8983ba98fdb7ec09b.ViewHolder
+SpyCam2.MainActivity, SpyCam2;md57945be193738195ba4fb163327248bc9.MainActivity
+SpyCam2.MainActivity, SpyCam2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57945be193738195ba4fb163327248bc9.MainActivity
+SpyCam2.MainActivity;md57945be193738195ba4fb163327248bc9.MainActivity
+spycam2.MainActivity;md57945be193738195ba4fb163327248bc9.MainActivity
+SpyCam2.StartActivity, SpyCam2;md57945be193738195ba4fb163327248bc9.StartActivity
+SpyCam2.StartActivity, SpyCam2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57945be193738195ba4fb163327248bc9.StartActivity
+SpyCam2.StartActivity;md57945be193738195ba4fb163327248bc9.StartActivity
+spycam2.StartActivity;md57945be193738195ba4fb163327248bc9.StartActivity
+SpyCam2.VideoPlayer, SpyCam2;md57945be193738195ba4fb163327248bc9.VideoPlayer
+SpyCam2.VideoPlayer, SpyCam2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57945be193738195ba4fb163327248bc9.VideoPlayer
+SpyCam2.VideoPlayer;md57945be193738195ba4fb163327248bc9.VideoPlayer
+spycam2.VideoPlayer;md57945be193738195ba4fb163327248bc9.VideoPlayer

@@ -1,0 +1,8 @@
+G:\itransition\SpyCam2\SpyCam2\obj\Release\android\assets\SpyCam2.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Release\android\assets\Mono.Android.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Release\android\assets\mscorlib.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Release\android\assets\System.Core.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Release\android\assets\System.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Release\android\assets\System.Xml.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Release\android\assets\System.Runtime.Serialization.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Release\android\assets\System.ServiceModel.Internals.dll

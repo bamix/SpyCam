@@ -1,0 +1,9 @@
+G:\itransition\SpyCam2\SpyCam2\obj\Debug\assemblies\SpyCam2.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Debug\assemblies\Mono.Android.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Debug\assemblies\mscorlib.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Debug\assemblies\System.Core.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Debug\assemblies\System.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Debug\assemblies\System.Xml.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Debug\assemblies\System.Xml.Linq.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Debug\assemblies\System.Runtime.Serialization.dll
+G:\itransition\SpyCam2\SpyCam2\obj\Debug\assemblies\System.ServiceModel.Internals.dll

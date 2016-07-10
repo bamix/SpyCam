@@ -1,0 +1,18 @@
+﻿<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+  <item
+
+      android:id="@+id/itemDelete"
+
+      android:title="Delete"
+
+      android:showAsAction="ifRoom"/>
+
+  <item
+
+    android:id="@+id/itemRename"
+
+    android:title="Rename"
+
+    android:showAsAction="ifRoom"/>
+</menu>

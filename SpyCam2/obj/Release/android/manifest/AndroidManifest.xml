@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="SpyCam2.SpyCam2" android:versionCode="1" android:versionName="1.0">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-feature android:name="android.hardware.camera" />
+  <uses-permission android:name="android.permission.MICROPHONE" />
+  <uses-permission android:name="android.permission.RECORD_AUDIO" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.STORAGE" />
+  <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+  <application android:label="SpyCam2" android:largeHeap="true" android:name="mono.android.app.Application" android:allowBackup="true">
+    <activity android:label="MainActivity" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md57945be193738195ba4fb163327248bc9.MainActivity" />
+    <activity android:icon="@drawable/icon" android:label="SpyCam" android:name="md57945be193738195ba4fb163327248bc9.StartActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="VideoPlayer" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md57945be193738195ba4fb163327248bc9.VideoPlayer" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="SpyCam2.SpyCam2.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>
